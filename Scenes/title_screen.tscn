@@ -191,6 +191,7 @@ text = "Defence Of Thornvail"
 label_settings = SubResource("LabelSettings_8mikk")
 
 [node name="Label2" type="Label" parent="."]
+visible = false
 offset_left = 51.0
 offset_top = 125.0
 offset_right = 475.0
